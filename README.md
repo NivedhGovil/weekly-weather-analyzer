@@ -1,1 +1,3 @@
-Average temperature finder
+weekly-weather-analyzer
+
+
