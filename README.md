@@ -1,6 +1,6 @@
 # Weekly Weather Analyzer
 
-Fetches the past 7 days of hourly temperature data for any city and generates a daily summary table and chart — powered by the free Open-Meteo API.
+This model fetches the past 7 days of hourly temperature data for any city and generates a daily summary table and chart. It is powered by the free Open-Meteo API.
 
 ## What it does
 
