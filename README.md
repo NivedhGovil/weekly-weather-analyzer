@@ -2,9 +2,8 @@
 
 This model fetches the past 7 days of hourly temperature data for any city in the world and generates a daily summary table and chart. It is powered by the free Open-Meteo API.
 
-![Pandas](https://shields.io)
-![Matplotlib](https://shields.io)
-![Requests](https://shields.io)
+![Pandas](https://shields.io) ![Matplotlib](https://shields.io) ![Requests](https://shields.io)
+
 
 ## What it does
 
